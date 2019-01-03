@@ -1,1 +1,51 @@
-topicid,name1,Activism2,Addiction3,Adventure4,Advertising5,Africa6,Aging7,Agriculture8,AI9,AIDS10,Aircraft11,Algorithm12,Alternative energy13,Alzheimer's14,Ancient world15,Animals16,Animation17,Antarctica18,Anthropocene19,Anthropology20,Ants21,Apes22,Archaeology23,Architecture24,Art25,Arts26,Asia27,Asteroid28,Astrobiology29,Astronomy30,Atheism31,Augmented reality32,Autism33,Autism spectrum disorder34,Bacteria35,Beauty36,Bees37,Behavioral economics38,Best of the Web39,Big bang40,Big problems41,Biodiversity42,Bioethics43,Biology44,Biomechanics45,Biomimicry46,Bionics47,Biosphere48,Biotech49,Birds50,Blindness51,Blockchain52,Body language53,Books54,Botany55,Brain56,Brand57,Brazil58,Buddhism59,Bullying60,Business61,Cancer62,Capitalism63,Cars64,Cello65,Charter for compassion66,Chemistry67,Children68,China69,Choice70,Christianity71,Cities72,Climate change73,Cloud74,Code75,Cognitive science76,Collaboration77,Comedy78,Communication79,Community80,Compassion81,Complexity82,Composing83,Computers84,Conducting85,Consciousness86,Conservation87,Consumerism88,Cooperation89,Coral reefs90,Corruption91,Cosmos92,Creativity93,Crime94,Criminal Justice95,CRISPR96,Crowdsourcing97,Cryptocurrency98,Culture99,Curiosity100,Dance101,Dark matter102,Data103,Death104,Debate105,Decision-making106,Deextinction107,Demo108,Democracy109,Depression110,Design111,Development112,Dinosaurs113,Disability114,Disaster relief115,Discovery116,Disease117,Diversity118,DNA119,Driverless cars120,Drones121,Ebola122,Ecology123,Economics124,Education125,Egypt126,Electricity127,Emotions128,Empathy129,Encryption130,Energy131,Engineering132,Entertainment133,Entrepreneur134,Environment135,Epidemiology136,Europe137,Evil138,Evolution139,Evolutionary psychology140,Exercise141,Exoskeleton142,Exploration143,Extraterrestrial life144,Extreme sports145,Failure146,Faith147,Family148,Farming149,Fashion150,Fear151,Feminism152,Film153,Finance154,Fish155,Flight156,Food157,Foreign Policy158,Forensics159,Friendship160,Fungi161,Funny162,Future163,Gaming164,Garden165,Gender166,Gender equality167,Gender spectrum168,Genetics169,Geology170,Glacier171,Global commons172,Global development173,Global issues174,Goal-setting175,God176,Google177,Government178,Grammar179,Graphic design180,Green181,Guitar182,Guns183,Hack184,Happiness185,Health186,Health care187,Hearing188,Heart health189,History190,HIV191,Homelessness192,Human body193,Human origins194,Humanity195,Humor196,Identity197,Illness198,Illusion199,Immigration200,Inclusion201,India202,Indigenous peoples203,Industrial design204,Inequality205,Infrastructure206,Innovation207,Insects208,Intelligence209,Interface design210,Internet211,Interview212,Introvert213,Invention214,Investment215,Iran216,Iraq217,Islam218,Jazz219,Journalism220,Justice system221,Language222,Latin America223,Law224,Leadership225,LGBT226,Library227,Life228,Literature229,Live music230,Love231,MacArthur grant232,Machine learning233,Magic234,Manufacturing235,Map236,Marine biology237,Marketing238,Markets239,Mars240,Materials241,Math242,Media243,Medical imaging244,Medical research245,Medicine246,Meditation247,Meme248,Memory249,Men250,Mental health251,Microbes252,Microbiology253,Microfinance254,Microsoft255,Middle East256,Military257,Mind258,Mindfulness259,Mining260,Mission blue261,Mobility262,Molecular biology263,Money264,Monkeys265,Moon266,Morality267,Motivation268,Movies269,Museums270,Music271,Nanoscale272,Narcotics273,NASA274,Natural disaster275,Natural resources276,Nature277,Neurology278,Neuroscience279,New York280,News281,Nobel prize282,Nonviolence283,Novel284,Nuclear energy285,Nuclear weapons286,Obesity287,Oceans288,Oil289,Online video290,Open-source291,Opioids292,Origami293,Pain294,Painting295,Paleontology296,Pandemic297,Parenting298,Peace299,Performance300,Performance art301,Person302,Personal growth303,Personality304,Pharmaceuticals305,Philanthropy306,Philosophy307,Photography308,Physics309,Physiology310,Piano311,Planets312,Plants313,Plastic314,Play315,Poetry316,Policy317,Politics318,Pollution319,Population320,Potential321,Poverty322,Prediction323,Pregnancy324,Presentation325,Primates326,Prison327,Privacy328,Product design329,Productivity330,Programming331,Prosthetics332,Protests333,Psychology334,PTSD335,Public health336,Public spaces337,Race338,Refugees339,Relationships340,Religion341,Resources342,Rivers343,Robots344,Rocket science345,Sanitation346,Science347,Science and art348,Science Fiction349,Security350,Self351,Senses352,Sex353,Sexual violence354,Shopping355,Sight356,Simplicity357,Singer358,Skateboarding359,Slavery360,Sleep361,Smell362,Social change363,Social media364,Social science365,Society366,Sociology367,Software368,Solar369,Solar energy370,Solar system371,Sound372,South America373,Space374,Speech375,Spoken word376,Sports377,Start-up378,State-building379,Statistics380,Stigma381,Storytelling382,Street art383,String theory384,Student385,Submarine386,Success387,Suicide388,Sun389,Surgery390,Surveillance391,Sustainability392,Synthetic biology393,Syria394,Teaching395,Technology396,TED Books397,TED en Espa–ol398,TED Fellows399,TED Prize400,TED Residency401,TED-Ed402,TEDMED403,TEDNYC404,TEDx405,TEDYouth406,Telecom407,Telescopes408,Television409,Terrorism410,Theater411,Time412,Toy413,Trafficking414,Transgender415,Transportation416,Travel417,Trees418,Trust419,Typography420,United States421,Universe422,Urban423,Urban planning424,Vaccines425,Violence426,Violin427,Virtual reality428,Virus429,Visualizations430,Vocals431,Vulnerability432,War433,Water434,Weather435,Web436,Wikipedia437,Wind energy438,Women439,Women in business440,Work441,Work-life balance442,World cultures443,Writing444,Wunderkind445,Youth446,3d printing
+topicid,name
+1,Activism
+2,Addiction
+3,Adventure
+4,Advertising
+5,Africa
+6,Aging
+7,Agriculture
+8,AI
+9,AIDS
+10,Aircraft
+11,Algorithm
+12,Alternative energy
+13,Alzheimer's
+14,Ancient world
+15,Animals
+16,Animation
+17,Antarctica
+18,Anthropocene
+19,Anthropology
+20,Ants
+21,Apes
+22,Archaeology
+23,Architecture
+24,Art
+25,Arts
+26,Asia
+27,Asteroid
+28,Astrobiology
+29,Astronomy
+30,Atheism
+31,Augmented reality
+32,Autism
+33,Autism spectrum disorder
+34,Bacteria
+35,Beauty
+36,Bees
+37,Behavioral economics
+38,Best of the Web
+39,Big bang
+40,Big problems
+41,Biodiversity
+42,Bioethics
+43,Biology
+44,Biomechanics
+45,Biomimicry
+46,Bionics
+47,Biosphere
+48,Biotech
+49,Birds
+50,Blindness
